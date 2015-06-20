@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The first function creates a matrix
+## The second function inverts the matrix, 
+## but checks if it has been cached first.
 
 ## Write a short comment describing this function
 
